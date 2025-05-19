@@ -1,4 +1,4 @@
-# Sistema de Gestión para Tapicería Automotriz - NOVO
+# Sistema de Gestión para Tapicería Automotriz by NOVO
 
 Este proyecto forma parte del equipo de estadía.
 
