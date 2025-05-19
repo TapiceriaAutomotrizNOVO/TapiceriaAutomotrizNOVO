@@ -1,16 +1,38 @@
-## Hi there 👋
+# Sistema de Gestión para Tapicería Automotriz - NOVO
 
-<!--
-**TapiceriaAutomotrizNOVO/TapiceriaAutomotrizNOVO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este proyecto forma parte del equipo de estadía.
 
-Here are some ideas to get you started:
+## 📌 Descripción General
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+El sistema está diseñado para **digitalizar y optimizar los procesos internos** de la empresa *NOVO Tapicería Automotriz*, ofreciendo una plataforma que permita:
+
+- Registrar y administrar clientes y vehículos.
+- Solicitar y gestionar servicios de tapicería automotriz.
+- Visualizar reportes operativos y seguimiento de trabajos.
+
+## 🎯 Objetivo
+
+Crear una solución web compuesta por dos vistas:
+- **Vista Administrador (web):** Registro y gestión de servicios, clientes y reportes.
+- **Vista Cliente (app móvil):** Solicitud de servicios, seguimiento de estado e historial.
+
+El sistema estará respaldado por un backend que administra toda la lógica y persistencia de datos.
+
+## 🧩 Estructura del Proyecto
+
+- **Frontend Web (Administrador):** HTML, CSS, JS o framework como React/Angular.
+- **App Móvil (Cliente):** Flutter (o React Native).
+- **Backend:** Node.js + Express (o tecnología equivalente).
+- **Base de datos:** MySQL o PostgreSQL.
+
+## 🛠️ Funcionalidades Principales
+
+- Autenticación con roles (cliente y administrador).
+- Registro y edición de clientes y servicios.
+- Consulta y actualización de estados de trabajo.
+- Visualización de reportes y estadísticas internas.
+- Solicitud de servicios desde app móvil con imágenes.
+- Historial personal y listado de servicios más solicitados.
+
+---
+
